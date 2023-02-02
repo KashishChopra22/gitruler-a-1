@@ -1,0 +1,7 @@
+Start
+Take 2 variables x and y
+Read the value of x and y
+Declare the new variable sum
+Add x and y and assign the result to a new variable sum
+display sum
+Stop
