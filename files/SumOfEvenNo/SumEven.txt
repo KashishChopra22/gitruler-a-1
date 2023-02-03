@@ -1,0 +1,8 @@
+Start
+Declare variables i , n and sum=0
+Input the number from user till which he wants to sum
+Store the number in variable n
+run a for loop start with i=2, i<=n, i+=2
+Each time sum is reinitialize with new value sum=sum+i
+Display sum
+Stop
