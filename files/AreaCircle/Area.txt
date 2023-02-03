@@ -1,0 +1,7 @@
+Start
+Declare r with some value 
+Use the formula 3.14*r*r
+Declare the variable res
+Store the result of this in new variable res
+Display res
+Stop
