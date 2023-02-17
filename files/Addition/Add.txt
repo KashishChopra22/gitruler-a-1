@@ -1,7 +1,13 @@
-Start
-Take 2 variables x and y
-Read the value of x and y
-Declare the new variable sum
-Add x and y and assign the result to a new variable sum
-display sum
-Stop
+Step1: Start
+
+Step2: Take 2 variables x and y
+
+Step3: Read the value of x and y
+
+Step4: Declare the new variable sum
+
+Step5: Add x and y and assign the result to a new variable sum
+
+Step6: Display sum
+
+Step7: Stop
